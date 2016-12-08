@@ -31,6 +31,7 @@ public class Messenger {
 
     public void displayMessage (String msg)
     {
+        if (msg.compareTo("\"\"") == 0) return;
         _uiUpdater.postMessage(msg);
     }
 

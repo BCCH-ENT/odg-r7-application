@@ -37,7 +37,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/messaging_bridge.cpp.o: CXX_C
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/messaging_bridge.cpp.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -fexceptions -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -fexceptions -Wall -std=c++11 -v -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets -isystem /Users/neilconnatty/AndroidTools/android-sdk-macosx/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/neilconnatty/AndroidTools/android-sdk-macosx/ndk-bundle/sources/android/support/include -isystem /Users/neilconnatty/AndroidTools/android-sdk-macosx/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/messaging_bridge.cpp
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/messaging_bridge.cpp
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp
 build CMakeFiles/MessagingService.dir/src/main/cpp/messenger.cpp.o: CXX_COMPILER__MessagingService ../../../../src/main/cpp/messenger.cpp
@@ -45,7 +45,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/messenger.cpp.o: CXX_COMPILER
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/messenger.cpp.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -fexceptions -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -fexceptions -Wall -std=c++11 -v -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets -isystem /Users/neilconnatty/AndroidTools/android-sdk-macosx/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/neilconnatty/AndroidTools/android-sdk-macosx/ndk-bundle/sources/android/support/include -isystem /Users/neilconnatty/AndroidTools/android-sdk-macosx/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/messenger.cpp
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/messenger.cpp
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_coreapi.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/core/pubnub_coreapi.c
@@ -53,7 +53,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_coreapi.c.
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_coreapi.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/core/pubnub_coreapi.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/core/pubnub_coreapi.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_coreapi_ex.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/core/pubnub_coreapi_ex.c
@@ -61,7 +61,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_coreapi_ex
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_coreapi_ex.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/core/pubnub_coreapi_ex.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/core/pubnub_coreapi_ex.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_ccore.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/core/pubnub_ccore.c
@@ -69,7 +69,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_ccore.c.o:
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_ccore.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/core/pubnub_ccore.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/core/pubnub_ccore.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_netcore.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/core/pubnub_netcore.c
@@ -77,7 +77,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_netcore.c.
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_netcore.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/core/pubnub_netcore.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/core/pubnub_netcore.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/sockets/pbpal_sockets.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/lib/sockets/pbpal_sockets.c
@@ -85,7 +85,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/sockets/pbpal_sock
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/sockets/pbpal_sockets.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/lib/sockets/pbpal_sockets.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/lib/sockets/pbpal_sockets.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/sockets
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/sockets/pbpal_resolv_and_connect_sockets.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/lib/sockets/pbpal_resolv_and_connect_sockets.c
@@ -93,7 +93,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/sockets/pbpal_reso
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/sockets/pbpal_resolv_and_connect_sockets.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/lib/sockets/pbpal_resolv_and_connect_sockets.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/lib/sockets/pbpal_resolv_and_connect_sockets.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/sockets
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/sockets/pbpal_adns_sockets.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/lib/sockets/pbpal_adns_sockets.c
@@ -101,7 +101,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/sockets/pbpal_adns
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/sockets/pbpal_adns_sockets.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/lib/sockets/pbpal_adns_sockets.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/lib/sockets/pbpal_adns_sockets.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/sockets
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/base64/pbbase64.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/lib/base64/pbbase64.c
@@ -109,7 +109,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/base64/pbbase64.c.
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/base64/pbbase64.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/lib/base64/pbbase64.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/lib/base64/pbbase64.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/lib/base64
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_alloc_std.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/core/pubnub_alloc_std.c
@@ -117,7 +117,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_alloc_std.
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_alloc_std.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/core/pubnub_alloc_std.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/core/pubnub_alloc_std.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_assert_std.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/core/pubnub_assert_std.c
@@ -125,7 +125,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_assert_std
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_assert_std.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/core/pubnub_assert_std.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/core/pubnub_assert_std.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_generate_uuid.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/core/pubnub_generate_uuid.c
@@ -133,7 +133,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_generate_u
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_generate_uuid.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/core/pubnub_generate_uuid.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/core/pubnub_generate_uuid.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_blocking_io.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/core/pubnub_blocking_io.c
@@ -141,7 +141,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_blocking_i
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_blocking_io.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/core/pubnub_blocking_io.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/core/pubnub_blocking_io.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_timers.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/core/pubnub_timers.c
@@ -149,7 +149,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_timers.c.o
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_timers.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/core/pubnub_timers.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/core/pubnub_timers.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_json_parse.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/core/pubnub_json_parse.c
@@ -157,7 +157,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_json_parse
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_json_parse.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/core/pubnub_json_parse.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/core/pubnub_json_parse.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_helper.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/core/pubnub_helper.c
@@ -165,7 +165,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_helper.c.o
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_helper.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/core/pubnub_helper.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/core/pubnub_helper.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pubnub_version_posix.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/posix/pubnub_version_posix.c
@@ -173,7 +173,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pubnub_version_p
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pubnub_version_posix.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/posix/pubnub_version_posix.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/posix/pubnub_version_posix.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pubnub_generate_uuid_posix.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/posix/pubnub_generate_uuid_posix.c
@@ -181,7 +181,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pubnub_generate_
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pubnub_generate_uuid_posix.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/posix/pubnub_generate_uuid_posix.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/posix/pubnub_generate_uuid_posix.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pbpal_posix_blocking_io.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/posix/pbpal_posix_blocking_io.c
@@ -189,7 +189,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pbpal_posix_bloc
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pbpal_posix_blocking_io.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/posix/pbpal_posix_blocking_io.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/posix/pbpal_posix_blocking_io.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/monotonic_clock_get_time_posix.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/posix/monotonic_clock_get_time_posix.c
@@ -197,7 +197,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/monotonic_clock_
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/monotonic_clock_get_time_posix.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/posix/monotonic_clock_get_time_posix.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/posix/monotonic_clock_get_time_posix.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/cpp/pubnub_futres_posix.cpp.o: CXX_COMPILER__MessagingService ../../../../src/main/cpp/c-core/cpp/pubnub_futres_posix.cpp
@@ -205,7 +205,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/cpp/pubnub_futres_posi
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/cpp/pubnub_futres_posix.cpp.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -fexceptions -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -fexceptions -Wall -std=c++11 -v -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets -isystem /Users/neilconnatty/AndroidTools/android-sdk-macosx/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/neilconnatty/AndroidTools/android-sdk-macosx/ndk-bundle/sources/android/support/include -isystem /Users/neilconnatty/AndroidTools/android-sdk-macosx/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/cpp/pubnub_futres_posix.cpp
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/cpp/pubnub_futres_posix.cpp
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/cpp
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_timer_list.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/core/pubnub_timer_list.c
@@ -213,7 +213,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_timer_list
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core/pubnub_timer_list.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/core/pubnub_timer_list.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/core/pubnub_timer_list.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/core
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pubnub_ntf_callback_posix.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/posix/pubnub_ntf_callback_posix.c
@@ -221,7 +221,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pubnub_ntf_callb
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pubnub_ntf_callback_posix.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/posix/pubnub_ntf_callback_posix.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/posix/pubnub_ntf_callback_posix.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix
 build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pubnub_get_native_socket.c.o: C_COMPILER__MessagingService ../../../../src/main/cpp/c-core/posix/pubnub_get_native_socket.c
@@ -229,7 +229,7 @@ build CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pubnub_get_nativ
   DEP_FILE = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix/pubnub_get_native_socket.c.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/c-core/posix/pubnub_get_native_socket.c
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/c-core/posix/pubnub_get_native_socket.c
   OBJECT_DIR = CMakeFiles/MessagingService.dir
   OBJECT_FILE_DIR = CMakeFiles/MessagingService.dir/src/main/cpp/c-core/posix
 
@@ -256,7 +256,7 @@ build ../../../../build/intermediates/cmake/release/obj/armeabi-v7a/libMessaging
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/.externalNativeBuild/cmake/release/armeabi-v7a && /Users/neilconnatty/AndroidTools/android-sdk-macosx/cmake/3.6.3155560/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/.externalNativeBuild/cmake/release/armeabi-v7a && /Users/neilconnatty/AndroidTools/android-sdk-macosx/cmake/3.6.3155560/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 build edit_cache: phony CMakeFiles/edit_cache.util
@@ -265,7 +265,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/.externalNativeBuild/cmake/release/armeabi-v7a && /Users/neilconnatty/AndroidTools/android-sdk-macosx/cmake/3.6.3155560/bin/cmake -H/Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app -B/Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/.externalNativeBuild/cmake/release/armeabi-v7a
+  COMMAND = cd /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/.externalNativeBuild/cmake/release/armeabi-v7a && /Users/neilconnatty/AndroidTools/android-sdk-macosx/cmake/3.6.3155560/bin/cmake -H/Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app -B/Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/.externalNativeBuild/cmake/release/armeabi-v7a
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -278,7 +278,7 @@ build CMakeFiles/StreamingPluginBridge.dir/src/main/cpp/StreamingPluginBridge.cp
   DEP_FILE = CMakeFiles/StreamingPluginBridge.dir/src/main/cpp/StreamingPluginBridge.cpp.o.d
   FLAGS = -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -fexceptions -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -fexceptions -Wall -std=c++11 -v -Os -DNDEBUG -Os -DNDEBUG  -fPIC   -D PUBNUB_THREADSAFE -D PUBNUB_CALLBACK_API
   INCLUDES = -I../../../../src/main/cpp/include -I../../../../src/main/cpp/c-core/cpp -I../../../../src/main/cpp/c-core/posix -I../../../../src/main/cpp/c-core/core -I../../../../src/main/cpp/c-core/lib/base64 -I../../../../src/main/cpp/c-core/lib/sockets -isystem /Users/neilconnatty/AndroidTools/android-sdk-macosx/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/neilconnatty/AndroidTools/android-sdk-macosx/ndk-bundle/sources/android/support/include -isystem /Users/neilconnatty/AndroidTools/android-sdk-macosx/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include
-  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/StreamingPlugin/app/src/main/cpp/StreamingPluginBridge.cpp
+  IN_ABS = /Users/neilconnatty/AndroidStudioProjects/odg-r7-application/app/src/main/cpp/StreamingPluginBridge.cpp
   OBJECT_DIR = CMakeFiles/StreamingPluginBridge.dir
   OBJECT_FILE_DIR = CMakeFiles/StreamingPluginBridge.dir/src/main/cpp
 
