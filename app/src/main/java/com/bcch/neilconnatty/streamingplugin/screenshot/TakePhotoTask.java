@@ -136,10 +136,11 @@ public abstract class TakePhotoTask implements Runnable, TextureView.SurfaceText
 
         @Override
         public void onPhotoTaken(final File file) {
-            PhotoUploader.updateFile(file, new QBEntityCallback<QBFile>() {
+            PhotoUploader.uploadNewFile(file, new QBEntityCallback<QBFile>() {
                 @Override
                 public void onSuccess(QBFile qbFile, Bundle bundle) {
                     Log.d(TAG, "File upload success");
+                    PhotoUploader.registerNewFile(qbFile);
                     file.delete();
                     returnSuccess();
                 }
