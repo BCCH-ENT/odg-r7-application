@@ -64,6 +64,7 @@ dependencies {
         transitive = true;
     }
     compile project(path: ':libstreamingplugin')
+    compile project(path: ':library')
     compile 'com.android.support:appcompat-v7:24.2.1'
     compile 'com.android.support:support-v4:24.2.1'
     testCompile 'junit:junit:4.12'
@@ -71,7 +72,6 @@ dependencies {
     compile 'com.github.johnkil.android-robototextview:robototextview:2.5.1'
     compile 'com.quickblox:quickblox-android-sdk-content:2.6.1'
     compile 'com.quickblox:quickblox-android-sdk-messages:2.6.1'
-
 }
 
 //apply plugin: 'com.google.gms.google-services'
