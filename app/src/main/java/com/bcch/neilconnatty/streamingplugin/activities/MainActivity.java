@@ -4,10 +4,10 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.os.Handler;
-import android.provider.ContactsContract;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
+import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.util.Log;
 import android.view.KeyEvent;
@@ -30,7 +30,6 @@ import com.bcch.neilconnatty.streamingplugin.imageViewer.ZoomAnimator;
 import com.bcch.neilconnatty.streamingplugin.messaging.Messenger;
 import com.bcch.neilconnatty.streamingplugin.messaging.remoteInput.RemoteInput;
 import com.bcch.neilconnatty.streamingplugin.messaging.remoteInput.RemoteInputCallbackListener;
-import com.bcch.neilconnatty.streamingplugin.screenshot.PhotoUploader;
 import com.bcch.neilconnatty.streamingplugin.screenshot.TakeCameraPhotoTask;
 import com.bcch.neilconnatty.streamingplugin.screenshot.TakePhotoTask;
 import com.bcch.neilconnatty.streamingplugin.timer.TimerCallback;
@@ -59,7 +58,7 @@ public class MainActivity extends BaseActivity
 
     static final int REQUEST_IMAGE_CAPTURE = 1;
 
-    private ImagePagerAdapter mAdapter = null;
+    private PagerAdapter mAdapter = null;
     private ViewPager mPager;
     private ImageView mImageView;
     private boolean _viewFlipped = false;

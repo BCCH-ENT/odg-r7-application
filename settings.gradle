@@ -1,1 +1,1 @@
-include ':app', ':libstreamingplugin', ':demo', ':library'
+include ':app', ':libstreamingplugin'
